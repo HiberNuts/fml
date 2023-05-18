@@ -1,0 +1,1 @@
+skdafjafj fkjflakfla fljlkjf lafjjg kjgkgf If we try to visualize these encodings, we can think of a 5 dimensional space, where each word occupies one of the dimensions and has nothing to do with the rest (no projection along the other dimensions). This means ‘good’ and ‘great’ are as different as ‘day’ and ‘have’, which is not true.
